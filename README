@@ -1,0 +1,14 @@
+Welcome to the server!
+
+Run the app locally with the following 
+coffee swyp.coffee 
+
+Use node-inspector for realtime debugging of the server
+coffee --nodejs --debug swyp.coffee
+
+run 
+node-inspector 
+in a new bash
+
+->then open your browser to 
+http://0.0.0.0:8080/debug?port=5858
